@@ -1,0 +1,1 @@
+solution = lambda s: ' '.join(st.capitalize() for st in s.split(' '))
